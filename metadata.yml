@@ -1,0 +1,14 @@
+---
+:id: 284278449
+:submitters:
+- :name: Carlos Martinez
+  :email: cmartinez1542@sdsu.edu
+- :name: Bryan Zavala
+  :email: bzavala8205@sdsu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-31 23:07:09.770504000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-31 16:07:09.770504000 Z
+:status: processed
+:score: 107.72
